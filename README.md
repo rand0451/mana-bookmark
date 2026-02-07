@@ -11,7 +11,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/yourusername/mana/releases)
 [![Electron](https://img.shields.io/badge/Electron-28.0-47848F.svg)](https://www.electronjs.org/)
 
-[Download]([https://github.com/yourusername/mana/releases](https://github.com/rand0451/mana-bookmark/releases)) • [Documentation](docs/) • [Report Bug](https://github.com/yourusername/mana/issues) • [Request Feature](https://github.com/yourusername/mana/issues)
+[Download]((https://github.com/rand0451/mana-bookmark/releases)) • [Documentation](docs/) • [Report Bug](https://github.com/yourusername/mana/issues) • [Request Feature](https://github.com/yourusername/mana/issues)
 
 </div>
 
