@@ -11,7 +11,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/yourusername/mana/releases)
 [![Electron](https://img.shields.io/badge/Electron-28.0-47848F.svg)](https://www.electronjs.org/)
 
-[Download](https://github.com/yourusername/mana/releases) • [Documentation](docs/) • [Report Bug](https://github.com/yourusername/mana/issues) • [Request Feature](https://github.com/yourusername/mana/issues)
+[Download]([https://github.com/yourusername/mana/releases](https://github.com/rand0451/mana-bookmark/releases)) • [Documentation](docs/) • [Report Bug](https://github.com/yourusername/mana/issues) • [Request Feature](https://github.com/yourusername/mana/issues)
 
 </div>
 
@@ -77,31 +77,6 @@
 3. Run `MANA.exe` (portable, no installation needed)
 
 **Alternative:** Download `MANA-Setup.exe` for system-wide installation
-
-#### macOS
-1. Download `MANA-v2.1.0.dmg` from [Releases](https://github.com/yourusername/mana/releases)
-2. Open the DMG file
-3. Drag MANA to Applications folder
-4. Launch from Applications
-
-#### Linux
-**AppImage (Universal):**
-```bash
-wget https://github.com/yourusername/mana/releases/download/v2.1.0/MANA-v2.1.0.AppImage
-chmod +x MANA-v2.1.0.AppImage
-./MANA-v2.1.0.AppImage
-```
-
-**Debian/Ubuntu (.deb):**
-```bash
-wget https://github.com/yourusername/mana/releases/download/v2.1.0/MANA-v2.1.0.deb
-sudo dpkg -i MANA-v2.1.0.deb
-```
-
-**Snap:**
-```bash
-snap install mana
-```
 
 ---
 
@@ -187,21 +162,6 @@ npm run build:windows
 # Output: dist/MANA-Setup.exe (Installer)
 ```
 
-**macOS:**
-```bash
-npm run build:mac
-# Output: dist/MANA-v2.1.0.dmg
-# Output: dist/MANA-v2.1.0.zip
-```
-
-**Linux:**
-```bash
-npm run build:linux
-# Output: dist/MANA-v2.1.0.AppImage
-# Output: dist/MANA-v2.1.0.deb
-# Output: dist/MANA-v2.1.0.snap
-```
-
 ---
 
 ## 🛠️ Technology Stack
@@ -282,8 +242,6 @@ If you find MANA helpful, please consider:
 ---
 
 <div align="center">
-
-**Made with ❤️ by the MANA Team**
 
 [⬆ Back to Top](#-mana)
 
