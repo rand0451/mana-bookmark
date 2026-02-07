@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MANA Logo]()
+![MANA Logo][https://raw.githubusercontent.com/rand0451/mana-bookmark/refs/heads/main/icon/256x256.png](https://raw.githubusercontent.com/rand0451/mana-bookmark/refs/heads/main/icon/256x256.png)
 
 **A powerful, modern desktop bookmark manager with real-time synchronization**
 
